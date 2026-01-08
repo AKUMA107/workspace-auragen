@@ -1,4 +1,4 @@
------<WORKSCAPE-AURAGEN>-----
+----->WORKSCAPE-AURAGEN>-----
 
 Workscape: The logic that maps your virtual workspace to a specific color folder.
 Auragen: The bridge that takes Matugen's output and forces your ASUS keyboard RGB to match.
