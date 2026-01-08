@@ -98,8 +98,7 @@ Add this to your hyprland config file:
 
 Author's Note
 
-I'm a first-year Chemistry student at IIT Madras. I built this because I wanted my physical hardware to feel like an extension of my virtual environment.
-
+I'm a first-year Chemistry student at IIT Madras.
 This is an early-stage project. I'm still learning! Feel free to fork, optimize, or suggest changes. If you find a way to make the color transitions even smoother or lower on resources, I'd love to see it.
 
 
