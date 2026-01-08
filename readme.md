@@ -21,17 +21,23 @@ Required Files:
 Instructions:
 1)
     Verify asusctl aura -c 000000 works.
+    
 2)
     copy the template css into your templates folder for matugen
+  
 3)
     Add the template path to your matugen conf.toml.
+  
 4)
     create a scripts folder inside hypr cofig folder, copy the swith_and_theme.sh file into here
+  
 5)
     copy the change-wallpaper.sh and keyb.sh into hypr folder itself
+  
 6)
     make sure you have 5 folders(can be same as mine) inside a 'Wallpapers' in your Downloads folder 
     NOTE: if you wanna use diff directory or diff amount of folders/worskpaces linked, you must change the change-wallpaper.sh file directly,
+   
 7)
     Hyprland:
 Add this to your hyprland config file:
