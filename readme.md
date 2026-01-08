@@ -98,7 +98,7 @@ Add this to your hyprland config file:
 
 Author's Note
 
-I'm a first-year Chemistry student at IIT Madras.
+I'm a first-year Chemistry student at IIT Madras. This repo is for showcasing the original stuff I built for my hyprland rice, do check out the complete rice https://github.com/AKUMA107/cachyXhyprland-fried-rice if you wanna fork the dotfiles from there this one will deffo work as i have cloned it multiple times.
 This is an early-stage project. I'm still learning! Feel free to fork, optimize, or suggest changes. If you find a way to make the color transitions even smoother or lower on resources, I'd love to see it.
 
 
